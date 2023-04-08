@@ -10,3 +10,13 @@ Steps:
 
 3. Render a directed graph to show the relationships.
 
+TODO:
+
+Add interactive legend.  https://docs.bokeh.org/en/latest/docs/user_guide/annotations.html
+
+Notes:
+
+Converted consolidated-202303.xml to consolidated-202303.json using https://codebeautify.org/xmltojson.
+Also, converted xml to csv using same website.
+
+
